@@ -1,5 +1,5 @@
-//Autor: dc1718daw2
-//Data i hora: 201712011403
+//Autor: Aziz Didouh
+//Data i hora: 15/05/2022
 
 #include <stdio.h>
 
@@ -22,5 +22,6 @@ int main() {
 	}
 	mitjana=suma/numero_repeticions;
 	printf("La mitjana resultant és: %.2f\n",mitjana);	
+	printf("Operació finalitzada amb èxit\n");
 	return 0;
 }
